@@ -3,7 +3,7 @@
   <head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<link rel="stylesheet" type="text/css" href="../styles/default.css">
+		<link rel="stylesheet" type="text/css" href="styles/default.css">
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	 <!-- jQuery first, then Popper.js, then Bootstrap JS -->
 		<!-- <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -18,7 +18,7 @@
     <header>
 		<h1 >Emmanuel Sosa</h1>
 		<figure >
-			<img  src="../../Images/emmanuelheadshot-reduced.jpg" alt="emmanuel_pic"/>
+			<img  src="Images/emmanuelheadshot-reduced.jpg" alt="emmanuel_pic"/>
 			<figcaption> Emmanuel picture</figcaption>
 			</figure>
 	</header>
@@ -65,14 +65,14 @@
           <li>
             <a href="contract_web250.html" target="_blank">Contract</a> ||
             <a href="http://students.cpcc.edu/~esosa001/" target="_blank">Webspace</a> ||
-            <a href="https://github.com/sosaeman" target="_blank" >Github</a> || 
-            <a href="https://sosaeman.github.io/" target="_blank">Github page</a> || 
-            <a href="https://www.codecademy.com/profiles/sosaeman" target="_blank">Codeacademy</a> || 
-            <a href="https://www.khanacademy.org/profile/kaid_160596572643861877219824/#" target="_blank">Khanacademy</a> || 
+            <a href="https://github.com/sosaeman" target="_blank" >Github</a> || 
+            <a href="https://sosaeman.github.io/" target="_blank">Github page</a> || 
+            <a href="https://www.codecademy.com/profiles/sosaeman" target="_blank">Codeacademy</a> || 
+            <a href="https://www.khanacademy.org/profile/kaid_160596572643861877219824/#" target="_blank">Khanacademy</a> || 
             <a href="https://codepen.io/dashboard/" target="_blank">Codepen</a> ||
-            <a href="https://profile.edx.org/u/sosaeman" target="_blank">EDX</a> ||
-            <a href="https://www.freecodecamp.org/fccfb2f88cd-896f-4742-9875-4bbdd846f7ac" target="_blank">FreeCodeCamp</a> ||
-            <a href="https://www.udemy.com/user/emmanuel-sosa/" target="_blank">Udemy</a> ||
+            <a href="https://profile.edx.org/u/sosaeman" target="_blank">EDX</a> ||
+            <a href="https://www.freecodecamp.org/fccfb2f88cd-896f-4742-9875-4bbdd846f7ac" target="_blank">FreeCodeCamp</a> ||
+            <a href="https://www.udemy.com/user/emmanuel-sosa/" target="_blank">Udemy</a> ||
             <a href="https://www.linkedin.com/in/emmanuel-sosa/" target="_blank">Linkedin</a>
 
           </li>
