@@ -18,7 +18,7 @@
     <header>
 		<h1 >Emmanuel Sosa</h1>
 		<figure >
-			<img  src="../Images/emmanuelheadshot-reduced.jpg" alt="emmanuel_pic"/>
+			<img  src="../../Images/emmanuelheadshot-reduced.jpg" alt="emmanuel_pic"/>
 			<figcaption> Emmanuel picture</figcaption>
 			</figure>
 	</header>
